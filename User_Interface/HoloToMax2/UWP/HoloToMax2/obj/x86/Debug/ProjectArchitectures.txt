@@ -1,0 +1,1 @@
+D:\GitHub\Unity Projects\HoloToMax2\UWP\HoloToMax2\HoloToMax2.csproj;x86
